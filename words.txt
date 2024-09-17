@@ -1,0 +1,9 @@
+cat
+dog
+mouse
+car
+snow
+red
+blue
+yellow
+pink
